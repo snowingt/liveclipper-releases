@@ -1,7 +1,7 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "type": "patch",
-  "changelog": "Hotfix VOD: extracción de audio 16 kHz para Whisper desde archivo local (adiós timeouts de 40s en candidatos).",
-  "download_url": "https://github.com/snowingt/liveclipper-releases/releases/download/v2.2.2/patch_v2.2.2.zip",
-  "sha256": "3e6f37a9b0da01056ad4c78556fbf4b9fd1f052871c36a222d00056c52c3d280"
+  "changelog": "HOTFIX v2.2.3: Sincronización estricta Audio/Video, eliminación de delay A/V en PC",
+  "download_url": "https://github.com/snowingt/liveclipper-releases/releases/download/v2.2.3/patch_v2.2.3.zip",
+  "sha256": "1dfdf194fa7cf7285a3675305a3eaf6d3869d5d441a81e932ab2b5bd1b4a00b1"
 }
