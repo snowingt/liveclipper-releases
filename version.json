@@ -1,7 +1,7 @@
 {
-  "version": "2.2.3",
+  "version": "2.2.4",
   "type": "patch",
-  "changelog": "Hotfix A/V Sync: corrección de delay de audio en PC (CFR + aresample + normalización de timestamps).",
-  "download_url": "https://github.com/snowingt/liveclipper-releases/releases/download/v2.2.3/patch_v2.2.3.zip",
-  "sha256": "8fc94ee0736b8aa9519f9b4f353dd760cee3bae70011e8fd406ec55585f805fc"
+  "changelog": "Hotfix v2.2.4: Fix SSL CERTIFICATE_VERIFY_FAILED en Auto-Updater de Windows (soporte certifi + Windows Certificate Store + fallback seguro con SHA256).",
+  "download_url": "https://github.com/snowingt/liveclipper-releases/releases/download/v2.2.4/patch_v2.2.4.zip",
+  "sha256": "bc1b2befa8a14754d9855a7c1f5d989686bb85c898b09db2ac14616cc4ec804a"
 }
