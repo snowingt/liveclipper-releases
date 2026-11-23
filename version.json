@@ -1,7 +1,7 @@
 {
   "version": "2.2.4",
   "type": "patch",
-  "changelog": "Hotfix v2.2.4: Fix SSL CERTIFICATE_VERIFY_FAILED en Auto-Updater de Windows (soporte certifi + Windows Certificate Store + fallback seguro con SHA256).",
+  "changelog": "Hotfix Auto-Updater Windows: corrección de certificados SSL (certifi) al descargar parches.",
   "download_url": "https://github.com/snowingt/liveclipper-releases/releases/download/v2.2.4/patch_v2.2.4.zip",
-  "sha256": "bc1b2befa8a14754d9855a7c1f5d989686bb85c898b09db2ac14616cc4ec804a"
+  "sha256": "fc99cea12d74471ce597ee472476333a21074714c08f46be097dc697f6d1f54b"
 }
