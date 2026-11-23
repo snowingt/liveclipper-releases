@@ -1,7 +1,7 @@
 {
   "version": "2.2.3",
   "type": "patch",
-  "changelog": "HOTFIX v2.2.3: Sincronización estricta Audio/Video, eliminación de delay A/V en PC",
+  "changelog": "Hotfix A/V Sync: corrección de delay de audio en PC (CFR + aresample + normalización de timestamps).",
   "download_url": "https://github.com/snowingt/liveclipper-releases/releases/download/v2.2.3/patch_v2.2.3.zip",
-  "sha256": "1dfdf194fa7cf7285a3675305a3eaf6d3869d5d441a81e932ab2b5bd1b4a00b1"
+  "sha256": "8fc94ee0736b8aa9519f9b4f353dd760cee3bae70011e8fd406ec55585f805fc"
 }
