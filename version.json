@@ -1,7 +1,7 @@
 {
   "version": "2.2.1",
   "type": "patch",
-  "changelog": "VODs ultra-rápidos, anti-congelamiento CPU, toggles de subtítulos/títulos y auto-updater.",
-  "download_url": "",
-  "sha256": ""
+  "changelog": "VOD ultra-rápido, anti-congelamiento CPU, auto-updater in-app y fixes de producción v2.2.1",
+  "download_url": "https://github.com/snowingt/liveclipper-releases/releases/download/v2.2.1/patch_v2.2.1.zip",
+  "sha256": "095e0cf827738d053485f8c6a98229e8179d337c466f6ae2b4d0a6a94a187de3"
 }
