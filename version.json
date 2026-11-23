@@ -1,1 +1,7 @@
-{\n  "version": "2.2.1",\n  "type": "patch",\n  "changelog": "VODs ultra-rápidos, anti-congelamiento CPU, toggles de subtítulos/títulos y auto-updater.",\n  "download_url": "",\n  "sha256": ""\n}\n
+{
+  "version": "2.2.1",
+  "type": "patch",
+  "changelog": "VODs ultra-rápidos, anti-congelamiento CPU, toggles de subtítulos/títulos y auto-updater.",
+  "download_url": "",
+  "sha256": ""
+}
