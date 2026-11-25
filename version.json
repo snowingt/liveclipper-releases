@@ -1,7 +1,7 @@
 {
-  "version": "2.2.4",
+  "version": "2.2.5",
   "type": "patch",
-  "changelog": "Hotfix Auto-Updater Windows: corrección de certificados SSL (certifi) al descargar parches.",
-  "download_url": "https://github.com/snowingt/liveclipper-releases/releases/download/v2.2.4/patch_v2.2.4.zip",
-  "sha256": "fc99cea12d74471ce597ee472476333a21074714c08f46be097dc697f6d1f54b"
+  "changelog": "v2.2.5: Fix crítico de render 9:16 y A/V sync sin congelamiento inicial, fix crash en VODs con Heatmap, fallback inteligente de URLs YouTube, render 2x-3x más rápido en CPU e IA local mejorada.",
+  "download_url": "https://github.com/snowingt/liveclipper-releases/releases/download/v2.2.5/patch_v2.2.5.zip",
+  "sha256": "94a2c08c3cdc39aa3ed6b845788cc8d4b93a94a275bdaa9e1ff0ad94c8595a88"
 }
